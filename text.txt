@@ -1,0 +1,6 @@
+MongoDb
+
+usuario:root
+
+contraseña: rpVF6tVlOuEYManM
+mongodb+srv://root:rpVF6tVlOuEYManM@cluster0.apaxksp.mongodb.net/
